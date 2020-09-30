@@ -30,3 +30,14 @@
 /VecmathDemo/
 /RegexDemos/nbproject/private/
 /RegexDemos/build/
+mavenproject1/pom.xml
+demo.zip
+ReadExcelDemo/pom.xml
+ReadExcelDemo/SampleExcel.xls
+ReadExcelDemo/src/main/java/com/buildtools/demo/App.java
+ReadExcelDemo/src/test/java/com/buildtools/demo/AppTest.java
+ReadExcelDemo/target/classes/com/buildtools/demo/App.class
+ReadExcelDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ReadExcelDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ReadExcelDemo/target/test-classes/com/buildtools/demo/AppTest.class
+VecmathDemo.zip
